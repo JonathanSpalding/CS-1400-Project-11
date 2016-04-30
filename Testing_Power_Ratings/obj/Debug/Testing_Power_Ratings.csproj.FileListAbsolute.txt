@@ -1,0 +1,6 @@
+c:\users\jon\documents\visual studio 2015\Projects\Testing_Power_Ratings\Testing_Power_Ratings\bin\Debug\Testing_Power_Ratings.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Testing_Power_Ratings\Testing_Power_Ratings\obj\Debug\Testing_Power_Ratings.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\Testing_Power_Ratings\Testing_Power_Ratings\bin\Debug\Testing_Power_Ratings.exe
+c:\users\jon\documents\visual studio 2015\Projects\Testing_Power_Ratings\Testing_Power_Ratings\bin\Debug\Testing_Power_Ratings.pdb
+c:\users\jon\documents\visual studio 2015\Projects\Testing_Power_Ratings\Testing_Power_Ratings\obj\Debug\Testing_Power_Ratings.exe
+c:\users\jon\documents\visual studio 2015\Projects\Testing_Power_Ratings\Testing_Power_Ratings\obj\Debug\Testing_Power_Ratings.pdb
